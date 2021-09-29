@@ -49,15 +49,3 @@ body {
 	height: 50px;
 	text-align: center;
 }
-.footer::before {
- 	 content: '';
-  	background: linear-gradient(to right, #156E6F, #1C9B9A, #156E6F);
- 	 width: 200%;
-  	position: absolute;
-  	left: 50%; 
-  	top: -100%;
-  	transform: translateX(-50%);
-  	height: 1000%;
-  	border-radius: 50%;
- 	 z-index: -1;
-}
