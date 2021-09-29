@@ -16,7 +16,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background:  radial-gradient(ellipse at bottom, #EBDED6, transparent), radial-gradient(ellipse at top, #00693E, transparent);
+	background:  radial-gradient(ellipse at bottom, #EBDED6, transparent), radial-gradient(ellipse at top, #3DE397, transparent);
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -47,5 +47,6 @@ body {
 	float: left;
 	width: 100%;
 	height: 50px;
+	border-radius: 100% / 0 0 30% 30%;
 	text-align: center;
 }
