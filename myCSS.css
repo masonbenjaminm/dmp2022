@@ -16,7 +16,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #EBDED6;
+	background:  radial-gradient(ellipse at bottom, #EBDED6, transparent), radial-gradient(ellipse at top, #00693E, transparent);
 	text-align: center;
 	margin: 0px;
 	padding: 5;
