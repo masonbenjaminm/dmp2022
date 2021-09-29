@@ -26,7 +26,7 @@ body {
 	
 }
 .nav {
-	background: linear-gradient(to right, #971226, #C5172D, #971226);
+	background: linear-gradient(to right, #7C0C1E, #C5172D, #7C0C1E);
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -42,7 +42,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: linear-gradient(to right, #156E6F, #1C9B9A, #156E6F);
+	background: linear-gradient(to right, #0F4C4D, #1C9B9A, #0F4C4D);
 	margin: 0px;
 	float: left;
 	width: 100%;
