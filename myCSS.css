@@ -51,3 +51,22 @@ body {
 	height: 50px;
 	text-align: center;
 }
+/* unvisited link */
+a:link {
+  color: #000000;
+}
+
+/* visited link */
+a:visited {
+  color: #000000;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FFFFFF;
+}
+
+/* selected link */
+a:active {
+  color: #FFFFFF;
+}
