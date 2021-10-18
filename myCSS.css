@@ -16,7 +16,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #FFFFFF;
+	background: radial-gradient(#EBDED6, #00693E);
 	text-align: center;
 	margin: 0px;
 	padding: 5;
