@@ -26,7 +26,7 @@ body {
 	
 }
 .nav {
-	background: #C5172D;
+	background: linear-gradient(to right, #7C0C1E, #C5172D, #7C0C1E);
 	margin: 0px;
 	padding: 5;
 	float: left;
