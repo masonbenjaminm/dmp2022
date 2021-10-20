@@ -16,7 +16,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: radial-gradient(#EBDED6, #97C9B3);
+	background: radial-gradient(#EBDED6, #0C7D22);
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -26,7 +26,7 @@ body {
 	
 }
 .nav {
-	background: linear-gradient(to right, #0C7D22, #C5172D, #0C7D22);
+	background: linear-gradient(to right, #7C0C1E, #C5172D, #7C0C1E);
 	margin: 0px;
 	padding: 5;
 	float: left;
